@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970946529957",
+    "project_id": "verify-84071",
+    "storage_bucket": "verify-84071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970946529957:android:31db3575511506830cdb4c",
+        "android_client_info": {
+          "package_name": "wu.tutorials.verify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR15YKC3tVDb-pO3IRZPJmiTErFKsAbSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
