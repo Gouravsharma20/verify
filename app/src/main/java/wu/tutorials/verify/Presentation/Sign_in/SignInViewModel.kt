@@ -1,10 +1,11 @@
 package wu.tutorials.verify.Presentation.Sign_in
 
+import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 
-public final class SignInViewModel {
+class SignInViewModel:ViewModel() {
     private val _state = MutableStateFlow(SignInState())
     val state = _state.asStateFlow()
 
